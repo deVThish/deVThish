@@ -26,15 +26,15 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/vthish/PulseAid-Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vthish&repo=PulseAid-Android&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/vthish/sentry-gas-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vthish&repo=sentry-gas-app&theme=tokyonight&hide_border=true" />
-</a>
-
+  <a href="https://github.com/vthish/PulseAid-Android">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vthish&repo=PulseAid-Android&theme=tokyonight&hide_border=true" />
+  </a>
+  <br>
+  <br><br>
+  <a href="https://github.com/vthish/sentry-gas-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vthish&repo=sentry-gas-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <br>
 </p>
 
 <p align="center">
