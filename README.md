@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/animated1.gif" width="100%" style="border-radius:20px;" />
+  <img src="https://raw.githubusercontent.com/deVThish/deVThish/main/assets/animated1.gif" width="100%" style="border-radius:20px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Venusha Thishan</h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vthish&label=Profile%20views&color=00ace6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=deVThish&label=Profile%20views&color=00ace6&style=for-the-badge" />
 </p>
 
 ---
@@ -26,16 +26,16 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/vthish/PulseAid-Android">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vthish&repo=PulseAid-Android&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/deVThish/PulseAid-Android">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=deVThish&repo=PulseAid-Android&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/vthish/sentry-gas-app">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vthish&repo=sentry-gas-app&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/deVThish/sentry-gas-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=deVThish&repo=sentry-gas-app&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vthish?tab=repositories">
+  <a href="https://github.com/deVThish?tab=repositories">
     🔎 View All Projects
   </a>
 </p>
@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vthish&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deVThish&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVThish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vthish&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=deVThish&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deVThish&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@
 ## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/deVThish/deVThish/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
 
 ---
