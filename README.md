@@ -47,19 +47,19 @@
 ### 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,kotlin&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,kotlin,ts&theme=dark"/>
 </p>
 
 ### 🌐 Web & Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,react,nodejs,flutter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,nodejs,nestjs,flutter&theme=dark"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,firebase,mysql,postman,aws,linux,arduino,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,gitlab,firebase,mysql,postman,aws,linux,arduino,spring&theme=dark"/>
 </p>
 
 ---
@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deVThish&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVThish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deVThish&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deVThish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
